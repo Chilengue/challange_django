@@ -1,0 +1,5 @@
+<!-- use command makemigration generate migrations of database -->
+python3 manage.py  makemigrations
+python3 manage.py  migrate //generate table database
+python3 manage.py  shell
+pip install ipyhon
